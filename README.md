@@ -1,8 +1,8 @@
 # BtcRaceBot — Dip Rider
 
-[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/c/btc-race-24h-20261117-0603)
-[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/competitions/btc-race-24h-20261117-0603)
-[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/leaderboard/btc-race-24h-20261117-0603)
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/allianzero/BtcRaceBot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/allianzero/BtcRaceBot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
 
 A long-only cbBTC/USDC trading bot for the make.fun competition
 **btc-race-24h-20261117-0603** ("Race a BTC trading bot live for 24
